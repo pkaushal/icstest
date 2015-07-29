@@ -1,0 +1,11 @@
+ Volume in drive G is Krishna
+ Volume Serial Number is 6A23-4BE7
+
+ Directory of G:\dev\nodedev\icstest\icstest
+
+29-07-2015  13:51    <DIR>          .
+29-07-2015  13:51    <DIR>          ..
+29-07-2015  13:51                 0 dir.txt
+29-07-2015  13:51                30 README.md
+               2 File(s)             30 bytes
+               2 Dir(s)  162,167,562,240 bytes free
